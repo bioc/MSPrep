@@ -2,7 +2,7 @@ Package: MSPrep
 Title:
   Package for Summarizing, Filtering, Imputing, and Normalizing Metabolomics 
   Data
-Version: 1.21.1
+Version: 1.21.2
 Authors@R:
   c(person("Max", "McGrath",
            email = "max.mcgrath@ucdenver.edu",
@@ -61,3 +61,4 @@ biocViews: Metabolomics,
   Preprocessing
 Encoding: UTF-8
 RoxygenNote: 7.1.2
+PackageStatus: Deprecated
